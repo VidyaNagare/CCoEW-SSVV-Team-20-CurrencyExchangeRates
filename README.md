@@ -15,12 +15,12 @@ Project Structure
 bash
 Copy code
 EXCHANGERATE/
-├── combined_exchange_rates.csv         # Combined CSV file containing exchange rates data
-├── homepg.html                         # Homepage of the application
-├── index.html                          # Main exchange rate analysis page
-├── index_1.html                        # Additional page for conversion or alternative analysis
-├── styles.css                          # CSS file for styling the application
-└── script.js                           # JavaScript file for functionality and data handling
+├── combined_exchange_rates.csv        
+├── homepg.html                        
+├── index.html                          
+├── index_1.html                        
+├── styles.css                          
+└── script.js                           
 Features
 Exchange Rate Visualization: Users can select different currencies and view their historical exchange rates over various durations.
 Data Analysis: The application provides functionalities to calculate the highest and lowest exchange rates within a selected time frame.
